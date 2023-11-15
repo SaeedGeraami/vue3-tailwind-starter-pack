@@ -1,6 +1,6 @@
 # vue3-tailwind-starter-pack
-
-This is a basic Vue3 with Vite TypeScript and Tailwind project for who ever wands to start a project.
+Hello!
+This is a basic VueJs(v3) with Vite TypeScript(v5.22) and Tailwind(v3.3) project for who ever wants to start his/her own jurney :).
 Additional package:
 - pinia
 - router
